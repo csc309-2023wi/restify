@@ -9,6 +9,38 @@ An online marketplace where users can search, book, comment and rate short term 
 -   **👉 Frontend:** [React.js](https://react.dev/), [React Router](https://reactrouter.com/en/main)
     -   📖 [Frontend README](frontend/README.md)
 
+## Screenshots
+
+### Home Page
+
+<p align="center">
+<img width="600px" src="screenshots/Restify_1.png" />
+</p>
+
+### Login
+
+<p align="center">
+<img width="600px" src="screenshots/Restify_2.png" />
+</p>
+
+### Host Dashboard
+
+<p align="center">
+<img width="600px" src="screenshots/Restify_3.png" />
+</p>
+
+### Property Edit Modal (1)
+
+<p align="center">
+<img width="600px" src="screenshots/Restify_4.png" />
+</p>
+
+### Property Edit Modal (2)
+
+<p align="center">
+<img width="600px" src="screenshots/Restify_5.png" />
+</p>
+
 ## Local Development
 
 #### Automatic Setup & Run Scripts
